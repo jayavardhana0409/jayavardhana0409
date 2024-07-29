@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Jayavardhana Reddy Kotla</h1>
-<h3 align="center">Experienced Data Analyst | Proficient in Python, SQL, and Cloud Technologies | Skilled in EDA, Machine Learning, and Data Visualization</h3>
+<h3 align="center">Experienced Data Analyst/Engineer | Proficient in Python, SQL, and Cloud Technologies | Skilled in EDA, Machine Learning, and Data Visualization</h3>
 
 - 🌱 I’m currently learning **Database Architecture, Data Warehousing, ETL**
 
