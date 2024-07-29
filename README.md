@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Database Architecture, Data Warehousing, ETL**
 
-- 👨‍💻 All of my projects are available at [https://jayavardhana0409.github.io/jayavardhanareddy.github.io/index.html](https://jayavardhana0409.github.io/jayavardhanareddy.github.io/index.html)
+- 👨‍💻 All of my projects are available at [Portfolio](https://jayavardhana0409.github.io/jayavardhanareddy.github.io/index.html)
 
 - 💬 Ask me about **Databases, Analysis, Data Visualization**
 
 - 📫 How to reach me **jaireddy1737@gmail.com**
 
-- 📄 Know about my experiences <a href=[https://github.com/jayavardhana0409/jayavardhanareddy.github.io/blob/main/Sai_Reddy.pdf]> Resume </a>
+- 📄 Know about my experiences [Resume](https://github.com/jayavardhana0409/jayavardhanareddy.github.io/blob/main/Sai_Reddy.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
