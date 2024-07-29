@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jaireddy1737@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/jayavardhana0409/jayavardhanareddy.github.io/blob/main/Sai_Reddy.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/jayavardhana0409/jayavardhanareddy.github.io/blob/main/Sai_Jayavardhana_Reddy.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
