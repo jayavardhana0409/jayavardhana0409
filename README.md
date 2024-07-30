@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://jayavardhana0409.github.io/jayavardhanareddy.github.io/index.html)
 
-- 💬 Ask me about **Databases, Analysis, Data Visualization**
+- 💬 Ask me about **Databases, Analysis, Data Visualization, ETL Pipelines, Cloud(AWS, Azure)**
 
 - 📫 How to reach me **jaireddy1737@gmail.com**
 
